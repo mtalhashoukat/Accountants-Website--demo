@@ -9,3 +9,9 @@ password: admin4455
 
 just click on the consult requests and check all the data behind the scenes.
 
+In this website I have used 
+Bootstrap 5 as a frontend framework for UI with an EJS as a view Engine.
+For the Backend I have used MongoDB as a Non-Relational Database. Express as framework or library in node.JS.
+
+
+
